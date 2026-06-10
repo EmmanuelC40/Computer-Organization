@@ -1,0 +1,37 @@
+# ==========================================
+# Quartus Generated Directories (All Projects)
+# ==========================================
+db/
+incremental_db/
+simulation/
+output_files/
+hc_output/
+greybox_tmp/
+
+# ==========================================
+# Quartus System & Log Files
+# ==========================================
+*.rpt
+*.summary
+*.jdi
+*.pin
+*.done
+*.qws
+*.bak
+*.orig
+
+# ==========================================
+# FPGA Programming Files
+# ==========================================
+# (Optional: Delete the '#' from the lines below if you 
+# DO want to upload your compiled .sof/.pof files)
+*.sof
+*.pof
+
+# ==========================================
+# ModelSim / Questa Simulation Artifacts
+# ==========================================
+transcript
+vsim.wlf
+work/
+msim/
